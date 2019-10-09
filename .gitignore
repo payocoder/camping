@@ -1,23 +1,23 @@
-# Compiled class file
-*.class
+local function tp(...)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(Vector3.new(...))
+end
 
-# Log file
-*.log
-
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+tp(-39.2401543, 1.71041596, 24.080265, 0.996078014, -0, -0.088479504, 0, 1, -0, 0.088479504, 0, 0.996078014)
+wait(0.5)
+tp(-8.52000427, 1.50001299, -86.3699951, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+wait(0.5)
+tp(-197.289917, 5.70000124, -115.100067, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+wait(0.5)
+tp(-166.449936, 4.70000172, -121.850067, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+wait(0.5)
+tp(-180.999969, 1.50001299, 19.2000504, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+wait(0.5)
+tp(-312.179932, -3.29998493, 49.4498978, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+wait(0.5)
+tp(-336.579926, -3.29998493, -35.3601074, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+wait(0.5)
+tp(-292.119934, -3.29998493, -77.5601044, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+wait(0.5)
+tp(-85.4300003, 1.50001299, -39.8200035, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+wait(0.5)
+tp(-332.939941, -3.29998493, -162.080109, 1, 0, 0, 0, 1, 0, 0, 0, 1)
